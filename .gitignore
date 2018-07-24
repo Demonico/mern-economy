@@ -1,0 +1,10 @@
+# Generated Files
+node_modules
+
+# System Specific settings
+.vdcode
+.DS_Store
+
+.env*
+
+keys.js
